@@ -1,14 +1,10 @@
-# Saleor Dashboard
+# Dashboard
 
 ![Saleor Dashboard](https://user-images.githubusercontent.com/249912/82305745-5c52fd00-99be-11ea-9ac6-cc04a6f28c91.png)
 
 A GraphQL-powered, single-page dashboard application for [Saleor](https://github.com/mirumee/saleor/).
 
-## Demo
-
-See the [public demo](https://demo.saleor.io/dashboard/) of Saleor Dashboard!
-
-Or launch the demo on a free Heroku instance.
+## Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -26,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository:
 
 ```
-$ git clone https://github.com/mirumee/saleor-dashboard.git
+$ git clone https://github.com/papismurf/cher-dashboard.git
 ```
 
 Enter the project directory:
@@ -40,7 +36,7 @@ $ cd saleor-dashboard
 To use the official stable release, checkout to a release tag:
 
 ```
-$ git checkout 2.11.1
+$ git checkout 2.*.*
 ```
 
 See the list of all releases here: https://github.com/mirumee/saleor-dashboard/releases/
@@ -87,5 +83,3 @@ To build the application bundle run:
 ```
 $ npm run build
 ```
-
-#### Crafted with ❤️ by [Mirumee Software](https://mirumee.com)
