@@ -1,6 +1,6 @@
 # Dashboard
 
-A GraphQL-powered, single-page dashboard application for [Saleor](https://github.com/mirumee/saleor/).
+A GraphQL-powered, single-page dashboard application.
 
 ## Deploy
 
